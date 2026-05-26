@@ -1,6 +1,6 @@
 export const personalInfo = {
-  name: "Adriana Martinez Funtes",
-  email: "mar24086uvg.edu.gt",
+  name: "Adriana Martinez Fuentes",
+  email: "mar24086@uvg.edu.gt",
   personalEmail: "adriana.mafu@gmail.com",
   career: "Ingeniería en Ciencias de la Computación y Tecnologías de Información",
   university: "Universidad del Valle de Guatemala",
