@@ -54,7 +54,8 @@ portfolio/
   ## Extra
   Para correrlo localmente se necesita Node.js instalado.
 
-  npm install
+  npm install 
+  
   npm run dev
 
   Luego solo se necesita abrir http://localhost:3000 en el navegador de tu preferencia.
