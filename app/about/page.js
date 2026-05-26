@@ -18,7 +18,7 @@ export default function About() {
           </div>
           <p className="text-gray-700 mb-4">
             Soy estudiante de {personalInfo.career} en la {personalInfo.university}.
-            Me apasiona la tecnología y busco constantemente aprender nuevas herramientas y
+            Me gusta mucho la tecnología y busco constantemente aprender nuevas herramientas y
             metodologías para mejorar como desarrolladora.
           </p>
           <p className="text-gray-700">
@@ -75,7 +75,7 @@ export default function About() {
         <section className="bg-white/70 backdrop-blur-sm rounded-2xl shadow-sm border border-wine-300/40 p-8">
           <div className="flex items-center mb-4">
             <GraduationCap className="w-8 h-8 text-wine-600 mr-3" />
-            <h2 className="text-2xl font-bold text-gray-900">Áreas que Deseo Aprender</h2>
+            <h2 className="text-2xl font-bold text-gray-900">Áreas en las que me gustaria aprender</h2>
           </div>
           <ul className="space-y-2">
             {personalInfo.about.areasToLearn.map((area, index) => (

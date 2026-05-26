@@ -7,7 +7,7 @@ export const personalInfo = {
   github: "https://github.com/itsadrimartinezzz",
   linkedin: null,
   
-  description: "Apasionada por la tecnología con un fuerte interés en ciberseguridad. Me motiva crear soluciones innovadoras y seguras que marquen la diferencia en el mundo digital.",
+  description: "Desarrolladora con interés en ciberseguridad y tecnologías web.",
   
   technologies: [
     "C#",
@@ -19,28 +19,37 @@ export const personalInfo = {
     "React",
     "Next.js",
     "Docker",
-    "Flask"
+    "Flask",
+    "nginx",
+    "Node.js",
+    "Express",
+    "Kotlin",
+    "Elixir"
   ],
   
   about: {
-    learning: "Durante el curso de Sistemas y Tecnologías Web he profundizado en el desarrollo con React, Next.js y en el proceso completo de deployment de aplicaciones web. He aprendido a construir interfaces modernas, trabajar con componentes reutilizables y desplegar proyectos en producción.",
+    learning: "Durante la clase de Sistemas y Tecnologías Web he aprendido sobre el desarrollo con React, Next.js y en el proceso completo de deployment de aplicaciones web. He aprendido a construir interfaces, trabajar con componentes reutilizables y desplegar proyectos.",
     
     interests: [
       "Ciberseguridad",
       "Project Management",
-      "Desarrollo Full Stack"
+      "Desarrollo Full Stack",
+      "Análisis de Datos"
     ],
     
     favoriteTechnologies: [
       "Python",
-      "PostgreSQL"
+      "PostgreSQL",
+      "React",
+      "Next.js",
+      "Docker"
     ],
     
     areasToLearn: [
       "Bases de datos avanzadas",
-      "Arquitectura de sistemas seguros",
-      "Análisis de vulnerabilidades",
-      "Gestión de proyectos tecnológicos"
+      "Arquitectura de sistemas",
+      "Redes y seguridad informática",
+      "Analítica de datos"
     ],
     
     experience: "Realicé prácticas profesionales por parte de mi colegio en GRS en el área de IT  "
@@ -80,7 +89,7 @@ export const projects = [
   {
     id: 3,
     name: "LAB 4 - Disci-App",
-    description: "Aplicación de gamificación para reforzar hábitos usando un sistema de misiones y recompensas (XP). Los usuarios crean misiones (hábitos), las completan y acumulan XP global para subir de categoría.",
+    description: "Aplicación de gamificación para reforzar hábitos usando un sistema de misiones y recompensas XP. Los usuarios crean misiones, las completan y acumulan XP global para subir de categoría.",
     technologies: ["HTML", "CSS", "JavaScript", "nginx"],
     repository: "https://github.com/itsadrimartinezzz/Lab-4-Intro-a-Javascript",
     liveUrl: null,

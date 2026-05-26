@@ -6,8 +6,8 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Diego Rivas - Portafolio',
-  description: 'Portafolio personal de Diego Rivas - Desarrollador Full Stack',
+  title: 'Adriana Martinez Fuentes - Portafolio',
+  description: 'Portafolio personal de Adriana Martinez Fuentes - Estudiante de Ingeniería en Ciencias de la Computación y Tecnologías de Información en la Universidad del Valle de Guatemala con un gran interés en ciberseguridad y analisis de datos.',
 };
 
 export default function RootLayout({ children }) {

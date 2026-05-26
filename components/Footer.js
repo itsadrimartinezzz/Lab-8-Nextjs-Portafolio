@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Adriana Martinez</h3>
             <p className="text-wine-300">
-              Desarrolladora apasionada por la ciberseguridad y las tecnologías web.
+              Desarrolladora con interés en ciberseguridad y tecnologías web.
             </p>
           </div>
 
