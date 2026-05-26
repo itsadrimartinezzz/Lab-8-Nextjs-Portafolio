@@ -50,12 +50,12 @@ export const personalInfo = {
 export const projects = [
   {
     id: 1,
-    name: "LAB 3 - Art Institute of Chicago API",
+    name: "LAB 3 - Api Testing con Postman y HTTPie",
     description: "Documentación completa y referencia de comandos para trabajar con la API pública del Art Institute of Chicago. Laboratorio de testing de APIs usando Postman y HTTPie.",
     technologies: ["Postman", "HTTPie", "REST API", "Documentation"],
     repository: "https://github.com/itsadrimartinezzz/LAB-3-APIs",
     liveUrl: null,
-    image: "/images/lab3.png",
+    image: "/images/img1.jpg",
     highlights: [
       "Testing de endpoints públicos",
       "Manejo de errores HTTP (400, 403, 404)",
@@ -65,12 +65,12 @@ export const projects = [
   },
   {
     id: 2,
-    name: "LAB 5 - JavaScript Fundamentals",
+    name: "LAB 5 - Mini Blog",
     description: "Aplicación web simple construida con HTML, CSS y JavaScript para practicar fundamentos de JavaScript, manipulación del DOM, manejo de eventos y comportamiento interactivo.",
     technologies: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
     repository: "https://github.com/itsadrimartinezzz/Lab-5-JS",
     liveUrl: "https://itsadrimartinezzz.github.io/Lab-5-JS/",
-    image: "/images/lab5.png",
+    image: "/images/img2.jpg",
     highlights: [
       "Manipulación del DOM",
       "Event handling",
@@ -79,12 +79,12 @@ export const projects = [
   },
   {
     id: 3,
-    name: "LAB 4 - Disci-App (Gamification)",
+    name: "LAB 4 - Disci-App",
     description: "Aplicación de gamificación para reforzar hábitos usando un sistema de misiones y recompensas (XP). Los usuarios crean misiones (hábitos), las completan y acumulan XP global para subir de categoría.",
     technologies: ["HTML", "CSS", "JavaScript", "nginx"],
     repository: "https://github.com/itsadrimartinezzz/Lab-4-Intro-a-Javascript",
     liveUrl: null,
-    image: "/images/lab4.png",
+    image: "/images/img3.jpg",
     highlights: [
       "Sistema de puntos XP por dificultad",
       "3 categorías de usuario",
